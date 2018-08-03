@@ -16,5 +16,5 @@ From other side I want to place all replication logic in one pod. That's why Go.
 
 ### Project name
 
-![Oh image](http://book4u.in.ua/upload/books/m/wh/855f3fe73f32.jpg =30x)
+![Oh image](http://book4u.in.ua/upload/books/m/wh/855f3fe73f32.jpg)
 Oh - a hero of Ukrainian fairy tail.
